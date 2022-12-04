@@ -1,0 +1,16 @@
+# Use of "alt" attributes in image 
+1. can be good to helps and describe the blind person to feel the content of image througout the screen readers
+2. it can help in search of rank 
+3. can be help to display image if an image cannot be load
+# Importance of "alt" attributes in image
+1. it is helpful for visually impaired users
+2. ranking websites
+3. it enhance the search engine
+
+#Use of "Title" attributes in image
+1. enable visually impaired to know that the website has started
+2. enable in explaining the image 
+3. enable in representing ownerships
+# Importance of "Title" attributes in image
+1. it make search engine to understand what the website or pages is about 
+2. it make your website more explanable to the users
